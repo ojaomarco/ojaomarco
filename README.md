@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+Aqui estão alguns dos meus projetos desenvolvidos utilizando diferentes linguagens e conceitos de programação.
 
 <!--
 **ojaomarco/ojaomarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
